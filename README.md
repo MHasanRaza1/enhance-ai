@@ -2,7 +2,7 @@
 
 Welcome to Enhance AI, a visually captivating static website crafted by Hasan Raza. This project serves as a demonstration of web development skills, showcasing the capabilities of HTML, CSS, and Tailwind CSS.
 
-Explore the live website: [Enhance AI](https://enhaance-ai.netlify.app/)
+Explore the live website: [Enhance AI](https://enhance-aii.vercel.app/)
 
 ## Overview 🌟
 
